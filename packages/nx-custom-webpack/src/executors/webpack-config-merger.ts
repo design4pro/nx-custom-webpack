@@ -1,6 +1,4 @@
-import differenceWith from 'lodash-es/differenceWith';
-import keyBy from 'lodash-es/keyBy';
-import merge from 'lodash-es/merge';
+import { differenceWith, keyBy, merge } from 'lodash';
 import { Configuration } from 'webpack';
 import { CustomizeRule, mergeWithRules } from 'webpack-merge';
 import { MergeRules } from './custom-webpack-builder-config';
