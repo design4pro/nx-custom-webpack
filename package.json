@@ -26,8 +26,8 @@
     "dep-graph": "nx dep-graph",
     "help": "nx help",
     "commit": "commit",
-    "prerelease": "nx affected:build --all",
-    "release": "nx affected --target release --all"
+    "prerelease": "nx affected:build --all --parallel",
+    "release": "nx affected --target release --all --parallel"
   },
   "private": true,
   "dependencies": {

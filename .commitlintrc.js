@@ -26,6 +26,8 @@ module.exports = {
       'always',
       // prettier-ignore
       [
+          'docs',
+          'test',
           'nx-custom-webpack'
         ],
     ],
