@@ -1,10 +1,20 @@
 {
   "$schema": "http://json-schema.org/schema",
   "executors": {
-    "build": {
-      "implementation": "./src/executors/build/executor",
-      "schema": "./src/executors/build/schema.json",
-      "description": "build executor"
+    "browser": {
+      "implementation": "./src/executors/browser",
+      "schema": "./src/executors/browser/schema.json",
+      "description": "Build browser app extended with custom webpack config"
+    },
+    "server": {
+      "implementation": "./src/executors/server",
+      "schema": "./src/executors/server/schema.json",
+      "description": "Build server app extended with custom webpack config"
+    },
+    "dev-server": {
+      "implementation": "./src/executors/dev-server",
+      "schema": "./src/executors/dev-server/schema.json",
+      "description": "Dev server extended with custom webpack config"
     }
   }
 }
