@@ -1,3 +1,13 @@
+## [1.0.1](https://github.com/design4pro/nx-custom-webpack/compare/nx-custom-webpack/v1.0.0...nx-custom-webpack/v1.0.1) (2021-04-18)
+
+### Bug Fixes
+
+- **nx-custom-webpack:** lodash ([65def00](https://github.com/design4pro/nx-custom-webpack/commit/65def0005890500d02e8fbd9b72b912fa0292943))
+
+### Miscellaneous
+
+- Merge pull request #7 from design4pro/develop ([67c63f9](https://github.com/design4pro/nx-custom-webpack/commit/67c63f9affa5f287eab0ae99587b2b5980f97f20)), closes [#7](https://github.com/design4pro/nx-custom-webpack/issues/7)
+
 # 1.0.0 (2021-04-18)
 
 ### Chores
