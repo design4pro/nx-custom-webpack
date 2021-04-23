@@ -2,18 +2,18 @@
   "$schema": "@angular-devkit/architect/src/builders-schema.json",
   "builders": {
     "browser": {
-      "implementation": "./src/builder/browser",
-      "schema": "./src/builder/browser/schema.json",
+      "implementation": "./src/builders/browser",
+      "schema": "./src/builders/browser/schema.json",
       "description": "Build browser app extended with custom webpack config"
     },
     "server": {
-      "implementation": "./src/builder/server",
-      "schema": "./src/builder/server/schema.json",
+      "implementation": "./src/builders/server",
+      "schema": "./src/builders/server/schema.json",
       "description": "Build server app extended with custom webpack config"
     },
     "dev-server": {
-      "implementation": "./src/builder/dev-server",
-      "schema": "./src/builder/dev-server/schema.json",
+      "implementation": "./src/builders/dev-server",
+      "schema": "./src/builders/dev-server/schema.json",
       "description": "Dev server extended with custom webpack config"
     }
   }
