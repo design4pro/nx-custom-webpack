@@ -20,8 +20,7 @@
   },
   "homepage": "https://github.com/design4pro/nx-custom-webpack#readme",
   "main": "src/index.js",
-  "generators": "./generators.json",
-  "executors": "./executors.json",
+  "builders": "./builders.json",
   "dependencies": {
     "@angular-devkit/architect": ">=0.1100.0 <= 0.1200.0-next.9",
     "@angular-devkit/build-angular": ">=0.1100.0 <= 12.0.0-next.9",

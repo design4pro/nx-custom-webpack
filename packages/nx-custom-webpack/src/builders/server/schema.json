@@ -1,8 +1,7 @@
 {
   "$schema": "http://json-schema.org/schema",
-  "cli": "nx",
   "title": "Custom webpack browser schema",
-  "description": "DevServer target options",
+  "description": "Server target options",
   "type": "object",
   "properties": {
     "customWebpackConfig": {
