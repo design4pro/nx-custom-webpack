@@ -1,3 +1,14 @@
+## [1.0.2](https://github.com/design4pro/nx-custom-webpack/compare/nx-custom-webpack/v1.0.1...nx-custom-webpack/v1.0.2) (2021-04-23)
+
+### Bug Fixes
+
+- **nx-custom-webpack:** builder fix ([4f14b64](https://github.com/design4pro/nx-custom-webpack/commit/4f14b64ba2e22fabc68a72f8d8d258fef5ec0154))
+- **nx-custom-webpack:** builder fix ([5e92f1a](https://github.com/design4pro/nx-custom-webpack/commit/5e92f1a4b0229c101ec8bf0703b9fbfe040fb5fa))
+
+### Miscellaneous
+
+- Merge pull request #8 from design4pro/develop ([ad91ea2](https://github.com/design4pro/nx-custom-webpack/commit/ad91ea254befbe671edd593a31e72c35f53d50f2)), closes [#8](https://github.com/design4pro/nx-custom-webpack/issues/8)
+
 ## [1.0.1](https://github.com/design4pro/nx-custom-webpack/compare/nx-custom-webpack/v1.0.0...nx-custom-webpack/v1.0.1) (2021-04-18)
 
 ### Bug Fixes
