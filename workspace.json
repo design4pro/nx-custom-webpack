@@ -37,12 +37,7 @@
               },
               {
                 "input": "./packages/nx-custom-webpack",
-                "glob": "generators.json",
-                "output": "."
-              },
-              {
-                "input": "./packages/nx-custom-webpack",
-                "glob": "executors.json",
+                "glob": "builders.json",
                 "output": "."
               }
             ]
