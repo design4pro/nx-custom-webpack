@@ -27,12 +27,5 @@ jobs:
       - name: Build, Release on GitHub & Publish to NPM
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN || secrets.GITHUB_TOKEN }}
         run: npm run release
-      - uses: actions/setup-node@v1
-        with:
-            registry-url: 'https://npm.pkg.github.com'
-         # Publish to GitHub Packages
-      - run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
