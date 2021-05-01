@@ -1,3 +1,23 @@
+# [1.1.0](https://github.com/design4pro/nx-custom-webpack/compare/nx-custom-webpack/v1.0.3...nx-custom-webpack/v1.1.0) (2021-05-01)
+
+### Bug Fixes
+
+- **nx-custom-webpack:** packages ([7547f5e](https://github.com/design4pro/nx-custom-webpack/commit/7547f5eaa1aa77e15074742a67d69d507b09db5f))
+
+### Features
+
+- **nx-custom-webpack:** update ([f7f8d7c](https://github.com/design4pro/nx-custom-webpack/commit/f7f8d7c2df97335f81b633c274007b93f837da90))
+
+### Miscellaneous
+
+- Merge pull request #13 from design4pro/develop ([b470f72](https://github.com/design4pro/nx-custom-webpack/commit/b470f721606c554c285c70b0c4325bc6fe72e3cd)), closes [#13](https://github.com/design4pro/nx-custom-webpack/issues/13)
+- Merge pull request #12 from design4pro/develop ([4d2b214](https://github.com/design4pro/nx-custom-webpack/commit/4d2b2147d927b690ed3bda5aa3305a3bc5ba0a41)), closes [#12](https://github.com/design4pro/nx-custom-webpack/issues/12)
+- Merge branch 'develop' of github.com:design4pro/nx-custom-webpack into develop ([8392258](https://github.com/design4pro/nx-custom-webpack/commit/839225881c486f980444b701ca44a81f3c0416ea))
+- Merge branch 'develop' of github.com:design4pro/nx-custom-webpack into develop ([012aa73](https://github.com/design4pro/nx-custom-webpack/commit/012aa73e0562d29c02d4c5aaaa3da676c56110ef))
+- Merge pull request #11 from design4pro/develop ([1f1c985](https://github.com/design4pro/nx-custom-webpack/commit/1f1c9850ee84b1933ce6747134b0040028687ec2)), closes [#11](https://github.com/design4pro/nx-custom-webpack/issues/11)
+- Merge pull request #10 from design4pro/develop ([8dfb176](https://github.com/design4pro/nx-custom-webpack/commit/8dfb1764b72c855bf9a56aebbf72085723232fef)), closes [#10](https://github.com/design4pro/nx-custom-webpack/issues/10)
+- Update release.yml ([3e575fe](https://github.com/design4pro/nx-custom-webpack/commit/3e575febf5652f760dca18bedb7b8726852c9e75))
+
 ## [1.0.3](https://github.com/design4pro/nx-custom-webpack/compare/nx-custom-webpack/v1.0.2...nx-custom-webpack/v1.0.3) (2021-04-23)
 
 ### Bug Fixes
